@@ -7,6 +7,10 @@ import javax.sound.sampled.AudioSystem;
 import javax.sound.sampled.DataLine;
 import javax.sound.sampled.SourceDataLine;
 
+/**
+ * @÷˜“≥ http://www.leaf123.cn/
+ * @” œ‰ xia5523@qq.com
+ */
 public class MusicPlayer {
 	public static int removeCount = 0;
 

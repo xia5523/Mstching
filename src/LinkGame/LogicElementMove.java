@@ -12,6 +12,10 @@ import javax.swing.JOptionPane;
 
 import LinkGame.Game.MyButton;
 
+/**
+ * @主页 http://www.leaf123.cn/
+ * @邮箱 xia5523@qq.com
+ */
 public class LogicElementMove {
 	// 游戏积分
 	int scores = 0;

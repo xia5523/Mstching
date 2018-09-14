@@ -8,6 +8,10 @@ import javax.swing.ImageIcon;
 
 import LinkGame.Game.MyButton;
 
+/**
+ * @主页 http://www.leaf123.cn/
+ * @邮箱 xia5523@qq.com
+ */
 public class PicRandom {
 	/**
 	 * 随机得到元素的图像

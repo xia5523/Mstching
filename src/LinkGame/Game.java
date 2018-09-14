@@ -32,6 +32,8 @@ import javax.swing.border.EtchedBorder;
  * 主窗体、程序入口
  * 
  * @author 夏忍
+ * @主页 http://www.leaf123.cn/
+ * @邮箱 xia5523@qq.com
  * 
  */
 @SuppressWarnings("serial")

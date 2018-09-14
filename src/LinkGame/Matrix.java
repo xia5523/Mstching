@@ -1,5 +1,9 @@
 package LinkGame;
 
+/**
+ * @主页 http://www.leaf123.cn/
+ * @邮箱 xia5523@qq.com
+ */
 public class Matrix {
 	static final int WITH = 6;//WITH代表宽度，也就是有多少列
 	static final int LONG = 8;//LONG代表长度，也就是高度，也就是有多少行

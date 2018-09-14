@@ -9,7 +9,8 @@ import java.sql.Date;
  * 用户系统错误的日志记录
  * 
  * @author Administrator
- * 
+ * @主页 http://www.leaf123.cn/
+ * @邮箱 xia5523@qq.com
  */
 public class Logger {
 

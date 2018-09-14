@@ -5,6 +5,11 @@ import java.util.Collection;
 
 import LinkGame.Game.MyButton;
 
+/**
+ * @÷˜“≥ http://www.leaf123.cn/
+ * @” œ‰ xia5523@qq.com
+ * @param <E>
+ */
 @SuppressWarnings("serial")
 public class MyArrayList<E> extends ArrayList<MyButton> {
 

@@ -4,6 +4,10 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
+/**
+ * @÷˜“≥ http://www.leaf123.cn/
+ * @” œ‰ xia5523@qq.com
+ */
 public class TimeRun implements Runnable{
 	Game game = null;
 	public TimeRun(Game game){
