@@ -1,6 +1,14 @@
 # Mstching
 对对碰小游戏
 
+# 另
+
+作者：xiaren
+邮箱：xia5523@qq.com 
+主页：http://www.leaf123.cn/
+
+# 环境
+
 编码格式GBK，jdk1.6
 直接运行mstching.jar，可体验。
 
@@ -14,8 +22,3 @@
 ![](https://github.com/xia5523/Mstching/blob/master/screenshots/1.png)
 
 
-# 另
-
-作者：xiaren
-邮箱：xia5523@qq.com 
-主页：http://www.leaf123.cn/
