@@ -9,7 +9,9 @@
 点击两张图片，进行图片位置交换，交换后，如果横纵方向有三个或者三个以上图案，则头像会消除并得分。
 
 # 截图
-https://github.com/xia5523/Mstching/blob/master/screenshots/1.png?raw=true
+
+![](https://github.com/xia5523/Mstching/blob/master/screenshots/1.png)
+
 
 # 另
 
